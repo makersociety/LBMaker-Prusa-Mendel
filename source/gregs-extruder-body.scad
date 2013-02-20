@@ -133,12 +133,12 @@ nema17_hole_spacing=1.2*25.4;
 nema17_width=1.7*25.4;
 nema17_support_d=nema17_width-nema17_hole_spacing;
 
-screw_head_recess_diameter=7.2;
+screw_head_recess_diameter=8;
 screw_head_recess_depth=3;
 
 motor_mount_rotation=25;
 motor_mount_translation=[50.5,34,0];
-motor_mount_thickness=12;
+motor_mount_thickness=8;
 
 m8_clearance_hole=8.8;
 hole_for_608=22.8;
@@ -151,7 +151,7 @@ filament_feed_hole_d=2.8;
 filament_diameter=1.75;
 filament_feed_hole_offset=filament_diameter+2;
 idler_nut_trap_depth=7.5;
-idler_nut_thickness=3;
+idler_nut_thickness=3.5;
 
 gear_separation=7.4444+32.0111+0.25;
 
